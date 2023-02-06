@@ -1,3 +1,5 @@
-# switchblade
+# Switchblade
 
-We all have those same old boring tasks that we do over and over again. Fortunately, we can automate some of these processes so that we can focus on doing other things that really need our energy and attention.
+We all have those same old boring tasks that we do over and over again. 
+Fortunately, we can automate some of these processes so that we can focus on doing other things that really need our energy and attention.
+Penknife is a python library I made to put all these things.
